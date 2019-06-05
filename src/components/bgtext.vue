@@ -80,5 +80,6 @@ export default {
 <style>
 .bg-text {
   overflow: hidden;
+  user-select: none;
 }
 </style>
